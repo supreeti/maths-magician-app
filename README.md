@@ -1,5 +1,5 @@
 # maths-magician-app
-This project is about Math magician using React.
+This project is about math magician using React.
 
 <!-- TABLE OF CONTENTS -->
 
@@ -7,7 +7,8 @@ This project is about Math magician using React.
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-  - [🚀 Live Demo](#live-demo)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
 - [Install](#install)
 - [👥 Authors](#authors)
@@ -21,10 +22,30 @@ This project is about Math magician using React.
  
 ## 🛠 Built With <a name="built-with"></a>
 
-- Html
-- CSS
-- Javascript ES6
-- React
+React library
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>HTML/CSS/JavaScript</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>GitHub</summary>
+  <ul>
+    <li><a href="https://github.com/">Github</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Interactive Webpage**
+- **solving math equations using calculator**
 
 <!-- GETTING STARTED -->
 
@@ -40,7 +61,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/supreeti/Math-magician-App.git
+  git clone https://github.com/supreeti/maths-magician-app.git
 ```
 ### Install
 
@@ -70,7 +91,7 @@ Example command:
 
 ## 🔭  Key Features <a name="features"></a>
 
-- [ 1] **[More interactive using Javascript]**
+- [ 1] **[Calculator]**
 - [ 2] **[Responsive Website]**
 
 <!-- FUTURE FEATURES -->
@@ -88,7 +109,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/supreeti/Math-magician-App/issues/new).
+Feel free to check the [issues page](https://github.com/supreeti/math-magician-app/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,13 +125,13 @@ If you like this project please give me ratings ...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to my coding partner and Microverse for support..
+I would like to thank to Microverse for support..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/supreeti/Math-magician-App/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/supreeti/maths-magician-app/blob/main/LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
