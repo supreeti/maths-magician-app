@@ -12,7 +12,7 @@ const FetchData = () => {
           'https://api.api-ninjas.com/v1/quotes?category=success',
           {
             headers: {
-              'X-Api-Key': 'yLpVtNRgYO0rmsTwWWlZoA==qY5MvAay3LrWTA4Q',
+              'X-Api-Key': 'Go5tI0BDjpEzmZRXBSlOFw==A32utGobwQtyjer2',
             },
           },
         );
