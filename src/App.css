@@ -70,9 +70,16 @@ body {
 .keypad > button:nth-child(4n),
 .keypad > button:nth-child(19) {
   background-color: orange;
-  transition: 0.1s ease;
+  transition: 0.2s ease;
 }
 
 .z {
   grid-column: span 2;
+}
+
+.quotes {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  padding: 0 1rem;
 }
