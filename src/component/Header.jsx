@@ -1,4 +1,4 @@
-import Navbar from './navigation';
+import Navbar from './Navigation';
 
 const Header = () => (
   <header>
