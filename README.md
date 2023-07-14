@@ -92,6 +92,7 @@ Example command:
 ## 🔭  Key Features <a name="features"></a>
 
 - [ 1] **[Calculator]**
+- [ 2] **[Quotes]**
 - [ 2] **[Responsive Website]**
 
 <!-- FUTURE FEATURES -->
