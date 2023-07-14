@@ -33,7 +33,7 @@ body {
   cursor: pointer;
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: flex-end;
   color: white;
   word-wrap: break-word;
   word-break: break-all;
