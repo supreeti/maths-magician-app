@@ -9,7 +9,6 @@ import Home from './routes/home';
 import Calculator from './routes/calculator';
 import FetchData from './routes/fetchdata';
 import Screen from './component/Screen';
-
 import './App.css';
 
 function App() {
