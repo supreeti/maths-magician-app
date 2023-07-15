@@ -9,6 +9,7 @@ This project is about math magician using React.
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [Install](#install)
 - [👥 Authors](#authors)
@@ -46,6 +47,12 @@ React library
 
 - **Interactive Webpage**
 - **solving math equations using calculator**
+
+- <!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+- Link to live project: [Math magicians - Calculator](https://maths-5i34.onrender.com/)
+  
 
 <!-- GETTING STARTED -->
 
