@@ -51,7 +51,7 @@ React library
 - <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- Link to live project: [Math magicians - Calculator](https://maths-5i34.onrender.com/)
+- Link to live project: [maths-magician-app - Calculator](https://calculatormaths.onrender.com//)
   
 
 <!-- GETTING STARTED -->
